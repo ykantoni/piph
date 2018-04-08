@@ -3,7 +3,7 @@
 
 int main( int argc, char* argv[] )
 {
-	printf( "main started" );  
+	printf( "main function started" );  
 	if( argc > 1 ) 
 	{	
 		printf( "input arguments are not allowed" );
